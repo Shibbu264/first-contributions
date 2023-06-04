@@ -3,7 +3,7 @@
 In order to check commit log for a branch, or, a file, following command can be used:
 
 `git log [options] [path]`
-
+Shivanshu Ranjan
 The output of this command is given in reverse chronological order by default.
 
 ## Command variations and options 
